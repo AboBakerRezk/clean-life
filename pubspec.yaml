@@ -1,0 +1,59 @@
+name: clean_life
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+4
+
+environment:
+  sdk: "^3.5.4"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_animate: any
+  shared_preferences: any
+  geolocator: any
+  http: any
+  google_maps_flutter: any
+  location: any
+  fluttertoast: any
+  speech_to_text: any
+  flutter_tts: any
+  flutter_spinkit: any
+  geocoding: any
+
+  flutter_localization: any
+  url_launcher: any
+  keystore_generator: any
+  syncfusion_flutter_charts: any
+  flutter_dotenv: any
+  google_fonts: any
+  flame: any
+
+  intl: any
+  flutter_gemini: any
+
+  share_plus: any
+  permission_handler: any
+  in_app_purchase: any
+  connectivity_plus: any
+  animated_text_kit: any
+  ##bot_toast: any
+  flutter_langdetect: any
+  overlay_support: any
+  flutter_screenutil: any
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/b2.jpg
+    - assets/df.png
+    - assets/images/p1.png
+    - assets/images/p2.png
+    - assets/images/p3.png
+    - assets/country.json
