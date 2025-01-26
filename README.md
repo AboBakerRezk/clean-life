@@ -1,4 +1,4 @@
-# clean_life
+# smart_deal_2025
 
 A new Flutter project.
 

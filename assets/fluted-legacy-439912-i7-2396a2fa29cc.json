@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fluted-legacy-439912-i7",
+  "private_key_id": "2396a2fa29ccf00d281aeb3e56c421fca4819e61",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCilanXzjl3zmUr\n+N94EjfaYxS1ny1Dp+0gOfrFH0VD3i+avH86CXMQgBzmYaT1QmScDcqr0reUaXPq\njzxdmmRbOnJQj1DojIQHrLqRm5KVRl1DHsGUoM5HzzD3T2fdXh5GQ9wclXRHbWyI\ny6MAz4J5JHou+w7/939W+H/QkMUyredQIYCKMq8qMyp3ojDSrOnmkQJzHVZrkQOt\n37X8BYvphmV6WVgCwP+6udbyPKg814rinbBantif7+MZ+hGz+2Mrq+HB+Nk+FFg+\n2yau056Nhf7cOfP2ZuXZrRqT6QslSWfsYSZYbJ70+wwSFR2pQmjQvPOGCWYlQvFv\nRvXh+cbRAgMBAAECggEACPhQYU1pqsQ6nTkzHRUGO1iFkzqnvOiWItXIEdmWkPbA\nch1NuKY+UK38yjIfb3+c/OYe5SlwQvIpeMqzxidHO6hHF848ZMQh4amENpXaeb1i\n1lnrTLetgdU6yp45KQOxEGfcjEArpOgy2X5ArUIFnQjn69Eio/kj76iwppFiK9hJ\nXEgScYbAgG8j+26IVxVz6jp05T/L1jCsF1suQwFAJLAU6jZ3uTNAPctwFizkxjFv\ndeUJjwioqOKldINdqqDmjtIYEun58U3xcUdTMzsZ+baHT9NChMxRfje8ptYM2I88\ngsAAok79Bsj1/mDcp9Bi4yjo8tQq3YmAFtjg2gHRMQKBgQDN9LVgatKELo1GSMKx\nE/WadmQjprABxvgwc8niRljacth8L9v81zlRjE/TI7z7XtuDpuvgLQWHgz/bSsxr\n2Felnp3hNscwe520V1Bbv/QHOjMI1EpJSS6wjbRbhE62XGsWTpGToGOFib99chcx\nkJT+FAfaWKX1OLtmERKxXANnOQKBgQDKFxYM7a1N0mDiNpbfelYrwlluVW6Lvr1f\nw/yvJTQbpvw+54SHf1xRlm0jdus54SxkdIfQR38tbNAmdHoMKpQP+8b6ZrE8V8Yd\nb95yLf05fc36BiAtOvCkjvyPp34svRwNeJqRnf1bolo2S0C9FuwP17b8D6A+5+/X\n81BqMp4EWQKBgQCo14dmLsy8fmllCDtL7j/3zD0WGQ3LtzE6j4IfFWq8U1B0psuj\nQVIFL5E1V+QS81XkXRCcbGxPBuNvxKdHdkmMRjfKLR0o+v5znO0M+pV041p5T4hD\nAlLbfKAyMopQ5/0GgYzIyMEt9Zpdng2znYL3tLYnY2tSWJsQ9sgrTHKhyQKBgQCf\nJRMOV1W1BUmam1aw4sxdZY2737dQgYLsmZCx9OBWLmhSuUua0OdIsOd9mDahu/uT\nmFkj4kn64cgBoJREZHt5ItONebV1ScIQiHpq/GCAF9xPWueX9uRvEtM95a7tWHdw\n/Frs9bgBo5bbTuPKhPSdfUjysvOE1m4AZ/IZz4a08QKBgDebqbLj7w4GFpDMcBCj\nK8yeGbmJY7qUn6+r+JEIufk45z8oQ6jmxO+Yn+aCxhSXxywvsiuCQp3Hh6LRZU9C\n/iGacR4usNoRh5jfSLj3bQXb9d0grJGYsOQzQkXjppiQbrsJKcXBxDsEy9R0OZHm\n815Xm3kv6PoToOu0xthvF8hJ\n-----END PRIVATE KEY-----\n",
+  "client_email": "smartdeal@fluted-legacy-439912-i7.iam.gserviceaccount.com",
+  "client_id": "105407519623396975369",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/smartdeal%40fluted-legacy-439912-i7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
